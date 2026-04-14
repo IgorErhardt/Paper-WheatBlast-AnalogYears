@@ -874,7 +874,7 @@ ggsave( "RCP85_Whithin.png",Plot,
 
 ### Response functions to parameterize S_Head
 
-```{R}
+```{R, warning=FALSE}
 # Parameters definition
 pars <- list(RH0 = 90, k_RH = 2, T_low = 16, T_high = 26, k_T = 2)
 

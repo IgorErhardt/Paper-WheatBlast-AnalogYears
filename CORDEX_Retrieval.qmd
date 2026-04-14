@@ -43,7 +43,6 @@ sentinels <- tibble::tribble(
     start_doy = yday(make_date(2001, start_month, start_day)),
     end_doy   = yday(make_date(2001, end_month, end_day))
   )
-sentinels
 DT::datatable(
   sentinels,
   options = list(
