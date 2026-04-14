@@ -1,0 +1,6 @@
+"0",""
+"0","analog_years <- df_analogs %>%"
+"0","  filter(analog_both) %>%"
+"0","  arrange(country, site, year) %>%"
+"0","  select(country, site, year, ET_JJA, S_head, I_temp, I_head, D, R_proxy)"
+"0","print(analog_years, n = Inf)"

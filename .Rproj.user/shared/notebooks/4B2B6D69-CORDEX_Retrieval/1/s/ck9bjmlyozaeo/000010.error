@@ -1,0 +1,1 @@
+{"frames":[],"message":"Error in st_as_sf(cities, coords = c(\"lon\", \"lat\"), crs = 4326) : \n  não foi possível encontrar a função \"st_as_sf\"\n"}

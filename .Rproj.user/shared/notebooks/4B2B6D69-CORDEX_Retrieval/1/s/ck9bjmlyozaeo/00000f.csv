@@ -1,0 +1,5 @@
+"0","cities_sf <- st_as_sf(cities, coords = c(""lon"",""lat""), crs = 4326)
+"
+"2","Error in st_as_sf(cities, coords = c(""lon"", ""lat""), crs = 4326) : 
+  não foi possível encontrar a função ""st_as_sf""
+"

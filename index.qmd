@@ -1,0 +1,17 @@
+---
+title: "Climatic fingerprint of the 2023 wheat head blast outbreak and its historical and future analogs in southern South America"
+---
+
+### Abstract
+
+Wheat head blast is a major threat to wheat in South America, but outbreaks vary across space and time because they depend on seasonal weather. In subtropical and temperate regions, epidemics occur only when winter conditions allow inoculum survival and weather during heading favors infection. As a result, epidemiological data from these regions remain limited. In 2023, unusual weather led to widespread disease occurrence across parts of southern South America. In this study, we adopted a climate-analog framework to define the climatic fingerprint of the 2023 epidemic season and assess whether similar conditions occurred historically (1981-2023) or reoccur under mid-century climate projections (2024-2055). Two biologically informed indices were developed for each year: winter thermal favorability, representing conditions for inoculum carryover, and hygrothermal suitability during heading. Historical years were compared with 2023 conditions at each site and with the 2023 Passo Fundo epidemic. Analog years were rare in the historical record, confirming the exceptional nature of 2023. Under RCP 8.5, analog frequency increased markedly in southern Brazil, indicating a higher likelihood of permissive seasons. Argentine sites became more favorable relative to their history but remained far from the Passo Fundo benchmark, whereas Artigas-Salto became less permissive due to colder winters. Overall, the 2023 climatic envelope appears historically anomalous but likely to become more frequent in southern Brazil, reinforcing the need for continued surveillance and blast-resistant management.
+
+Igor F. Erhardt^1^, Adam H. Sparks^2^ and Emerson M. Del Ponte^1^
+
+1 Departamento de Fitopatologia, Universidade Federal de Viçosa, Viçosa, MG, Brazil 36570-900
+
+2 Centre for Crop and Disease Management, Curtin University, Bentley WA, Australia 6102
+
+### Study Area
+
+![Geolocation of the six sentinel sites across Brazil, Uruguay and Argentina selected for the study. The mask within each country represents significant wheat-growing areas.](LocFig.png){fig-align="center"}

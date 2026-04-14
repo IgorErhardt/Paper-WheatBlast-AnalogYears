@@ -1,0 +1,17 @@
+dplyr
+tidyr
+lubridate
+purrr
+nasapower
+ggplot2
+forcats
+jsonlite
+tibble
+readxl
+Matrix
+lme4
+sjPlot
+metadat
+numDeriv
+metafor
+patchwork

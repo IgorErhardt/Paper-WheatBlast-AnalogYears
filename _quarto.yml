@@ -1,0 +1,27 @@
+project:
+  type: website
+
+cache: true
+
+website:
+  title: "Wheat head Blast Epidemic Analog Conditions"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Introduction
+        icon: house
+      - href: CORDEX_Retrieval.qmd
+        text: Weather Data
+        icon: cloud-download
+      - href: AnalogYearsProc.qmd
+        text: Data Analysis
+        icon: bar-chart
+        
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
