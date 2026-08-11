@@ -34,7 +34,7 @@ Key parameters definition. Thresholds used in the response curves and to identif
 A set of sentinel sites was defined to represent key wheat-growing regions across southern Brazil, Uruguay, and Argentina, capturing a broad latitudinal and climatic gradient. For each location, geographic coordinates and a site-specific temporal window corresponding to the wheat heading period were specified. These periods are defined using fixed calendar dates and subsequently converted to day-of-year format to facilitate alignment with daily climate data.
 
 ```{R}
-# Threshold and Benchamark -----------------------------------------------------
+# Threshold and Benchmark -----------------------------------------------------
 CFG <- list(
   T0    = 15, # Winter temperature threshold
   RH0   = 90, # Relative Humidity threshold
